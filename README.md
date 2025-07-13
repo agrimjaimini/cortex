@@ -2,10 +2,6 @@
 
 A web app that serves as your digital second brain. It helps you store and organize your notes using semantic embeddings. Think of it as a smart notebook where you can dump any notes (in text or PDF format) that groups similar ideas together automatically.
 
-## What it does
-
-- **PDF Support**: Upload PDFs and extract their text content automatically
-
 ## Project Architecture
 
 ```
