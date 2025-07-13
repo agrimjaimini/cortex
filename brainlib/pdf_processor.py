@@ -1,5 +1,5 @@
 """
-Digital Second Brain - PDF Processing Module
+Cortex - PDF Processing Module
 
 This module provides PDF processing functionality for:
 - Extracting text from PDF files

@@ -3,7 +3,7 @@ const axios = require('axios');
 const API_BASE_URL = 'http://localhost:8080';
 
 async function testAPI() {
-    console.log('🧪 Testing Digital Second Brain API...\n');
+    console.log('🧪 Testing Cortex API...\n');
     
     try {
         // Test health endpoint

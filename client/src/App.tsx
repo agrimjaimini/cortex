@@ -335,7 +335,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>🧠 Digital Second Brain</h1>
+        <h1>🧠 Cortex</h1>
         <p>Store, organize, and cluster your notes and PDFs semantically</p>
       </header>
 

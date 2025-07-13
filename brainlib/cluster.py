@@ -1,5 +1,5 @@
 """
-Digital Second Brain - Clustering Module
+Cortex - Clustering Module
 
 This module provides clustering functionality for:
 - Retrieving notes and embeddings from MongoDB

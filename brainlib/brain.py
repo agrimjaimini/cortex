@@ -1,7 +1,7 @@
 """
-Digital Second Brain - Core Brain Module
+Cortex - Core Brain Module
 
-This is the main brain of the Digital Second Brain app. It handles:
+This is the main brain of the Cortex app. It handles:
 - Converting your text notes into embeddings so the system can understand them
 - Storing notes and their representations in the database
 - Retrieving notes when you need them
@@ -343,7 +343,7 @@ if __name__ == "__main__":
         handle_command_line()
     else:
         try:
-            test_note = "This is a test note for the digital second brain."
+            test_note = "This is a test note for Cortex."
             embedding = embed_text(test_note)
             print(f"Embedding generated: {len(embedding)} dimensions")
             

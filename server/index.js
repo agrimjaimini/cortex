@@ -364,7 +364,7 @@ app.get('/cluster-summary', async (req, res) => {
 app.get('/health', (req, res) => {
     res.json({
         success: true,
-        message: 'Digital Second Brain API is running',
+        message: 'Cortex API is running',
         timestamp: new Date().toISOString()
     });
 });
@@ -397,6 +397,6 @@ app.use((error, req, res, next) => {
 
 // Start server
 app.listen(PORT, () => {
-    console.log(`Digital Second Brain API server running on port ${PORT}`);
+    console.log(`Cortex API server running on port ${PORT}`);
     console.log(`Health check: http://localhost:${PORT}/health`);
-}); 
+});

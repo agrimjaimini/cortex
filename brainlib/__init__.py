@@ -1,4 +1,4 @@
-# Digital Second Brain - Brain Library
+# Cortex - Brain Library
 # This package provides core functionality for embedding text and storing notes
 
 from .brain import (

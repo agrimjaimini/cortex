@@ -1,7 +1,7 @@
 {
-  "name": "digital-second-brain-server",
+  "name": "cortex-server",
   "version": "1.0.0",
-  "description": "Express API server for Digital Second Brain",
+  "description": "Express API server for Cortex",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",

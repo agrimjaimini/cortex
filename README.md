@@ -1,6 +1,6 @@
-# Digital Second Brain 🧠
+# Cortex 🧠
 
-A web app that helps you store and organize your notes using semeantic embeddings. Think of it as a smart notebook where you can dump any notes (in text or PDF format) that groups similar ideas together automatically.
+A web app that serves as your digital second brain. It helps you store and organize your notes using semantic embeddings. Think of it as a smart notebook where you can dump any notes (in text or PDF format) that groups similar ideas together automatically.
 
 ## What it does
 
@@ -9,7 +9,7 @@ A web app that helps you store and organize your notes using semeantic embedding
 ## Project Architecture
 
 ```
-digital-second-brain/
+cortex/
 ├── brainlib/           # Python embedding and clustering logic
 │   ├── __init__.py
 │   ├── brain.py       # Core functions for storing and retrieving notes
